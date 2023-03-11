@@ -3,3 +3,33 @@ body {
   height: 100%;
   margin: 0;
 }
+header h1{
+  text-align: center;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.nav-links-wrapper{
+padding-left: 10px;
+padding-right: 10px;
+background-color: lightpink;
+text-align: center;
+}
+
+.featured-property{
+  text-align: center;
+}
+p#featured-property{
+  width: 800px;
+}
+
+.details{
+  display: flex;
+  justify-content: space-between;
+  background-color: hotpink;
+
+}
